@@ -1,0 +1,6 @@
+a0a4fec4-0a02-46fe-9f38-bcee782d2056
+Photon Id's:
+NetworkManager: 1
+MenuControler: 2
+GameManger: 3
+Beta Player: 4
